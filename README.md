@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vijay Uthay
 - 👀 I’m interested in IA & AI
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on exploring and learning AI
+- 💞️ I’m looking to collaborate on learning AI
 - 📫 How to reach me: vijay.uthay@gmail.com
 
 <!---
